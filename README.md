@@ -63,3 +63,5 @@ Here are the links:
 **Macintosh** - https://www.dropbox.com/s/th716p6h3oom6vs/YouTubePostIt-1.0.0.dmg?dl=0  
 
 **Linux** - Well, I figure if you have a linux operating system, you're probably going to build from source. ¯\_(ツ)_/¯
+
+> This app is published under the [MIT](https://mit-license.org/) license.
