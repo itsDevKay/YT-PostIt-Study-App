@@ -3,6 +3,14 @@ Minimal Youtube Post It Study app to watch videos without the extra features of 
 
 ---
 
+## Screenshots
+![YT PostIt](https://github.com/itsDevKay/YT-PostIt-Study-App/blob/main/YT-PostIt.png)
+
+![YT PostIt Search](https://github.com/itsDevKay/YT-PostIt-Study-App/blob/main/YT-PostIt-search.png)
+
+![YT PostIt Full Screen](https://github.com/itsDevKay/YT-PostIt-Study-App/blob/main/YT-PostIt-fullscreen.png)
+
+
 ## Why I Built This App
 I enjoy listening to music on YouTube whenever I'm programming, designing, or doing anything else that requires my focus. I didn't like that I had to continuously switch back and forth from whatever I was working on, to YouTube and back again. I wanted a small window that could would be small enough to place and move around anywhere on my screen while always remaining on the top so I could easily select a new video. Thus, YT PostIt was born.
 
