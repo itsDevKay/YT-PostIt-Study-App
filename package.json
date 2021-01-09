@@ -1,0 +1,25 @@
+{
+  "name": "YouTubePostIt",
+  "version": "1.0.0",
+  "description": "A post it style window app for youtube that remains on top.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "itsDevKay",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.1.1",
+    "electron-builder": "^22.9.1"
+  },
+  "build": {
+    "appId": "itsdev.kay",
+    "mac" : {
+      "category": "entertainment"
+    }
+  }
+}
